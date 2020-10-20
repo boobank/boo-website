@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.522fcd4c.chunk.js": "/static/js/0.522fcd4c.chunk.js",
+    "main.css": "/static/css/main.b7c2c348.chunk.css",
+    "main.js": "/static/js/main.e7ffb85d.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.4bf5715e.js",
+    "static/js/3.7ed7808d.chunk.js": "/static/js/3.7ed7808d.chunk.js",
+    "static/js/4.3e7164f2.chunk.js": "/static/js/4.3e7164f2.chunk.js",
+    "static/js/5.777b3e57.chunk.js": "/static/js/5.777b3e57.chunk.js",
+    "static/js/6.def9a36c.chunk.js": "/static/js/6.def9a36c.chunk.js",
+    "static/js/7.699957d3.chunk.js": "/static/js/7.699957d3.chunk.js",
+    "static/js/8.35c1511f.chunk.js": "/static/js/8.35c1511f.chunk.js",
+    "static/js/9.7c34abae.chunk.js": "/static/js/9.7c34abae.chunk.js",
+    "static/js/10.a032f010.chunk.js": "/static/js/10.a032f010.chunk.js",
+    "static/js/11.1f2fb48a.chunk.js": "/static/js/11.1f2fb48a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.d84a2e4e600d896b83bbf0d660abdf23.js": "/precache-manifest.d84a2e4e600d896b83bbf0d660abdf23.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.7ed7808d.chunk.js.LICENSE.txt": "/static/js/3.7ed7808d.chunk.js.LICENSE.txt",
+    "static/js/5.777b3e57.chunk.js.LICENSE.txt": "/static/js/5.777b3e57.chunk.js.LICENSE.txt",
+    "static/js/6.def9a36c.chunk.js.LICENSE.txt": "/static/js/6.def9a36c.chunk.js.LICENSE.txt",
+    "static/js/7.699957d3.chunk.js.LICENSE.txt": "/static/js/7.699957d3.chunk.js.LICENSE.txt",
+    "static/js/8.35c1511f.chunk.js.LICENSE.txt": "/static/js/8.35c1511f.chunk.js.LICENSE.txt",
+    "static/media/EarlyAdoptRewards.png": "/static/media/EarlyAdoptRewards.7f7765af.png",
+    "static/media/boo.png": "/static/media/boo.7f76fa8f.png",
+    "static/media/boo.banker.png": "/static/media/boo.banker.6b7d63ba.png",
+    "static/media/ecto.png": "/static/media/ecto.8ffcac22.png",
+    "static/media/metamask-fox.svg": "/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/pool.boo-ecto.png": "/static/media/pool.boo-ecto.5b6b512a.png",
+    "static/media/pool.boo-eth.png": "/static/media/pool.boo-eth.1079d792.png",
+    "static/media/pool.ecto-eth.png": "/static/media/pool.ecto-eth.fe58c565.png",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.37f2bc6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bf5715e.js",
+    "static/js/3.7ed7808d.chunk.js",
+    "static/css/main.b7c2c348.chunk.css",
+    "static/js/main.e7ffb85d.chunk.js"
+  ]
+}
